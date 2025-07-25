@@ -1,12 +1,6 @@
 #!/bin/bash
-################# LFS458:1.32.1 s_16/k8sWorker.sh ################
-# The code herein is: Copyright The Linux Foundation, 2025
-#
-# This Copyright is retained for the purpose of protecting free
-# redistribution of source.
-#
-#     URL:    https://training.linuxfoundation.org
-#     email:  info@linuxfoundation.org
+
+#     email:  mudasir.s.tech@gmail.com
 #
 # This code is distributed under Version 2 of the GNU General Public
 # License, which you should have received with the source.
