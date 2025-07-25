@@ -6,19 +6,6 @@
 # redistribution of source.
 #
 #     email:  mudasir.s.tech@gmail.com
-#
-# This code is distributed under Version 2 of the GNU General Public
-# License, which you should have received with the source.
-#Version 1.29.1
-#
-# This script is intended to be run on an Ubuntu 20.04,
-# 2cpu, 8G.
-# By Tim Serewicz, 05/2022 GPL
-# By FRK, 06/2023
-
-# Note there is a lot of software downloaded, which may require
-# some troubleshooting if any of the sites updates their code,
-# which should be expected
 
 # Verify this version is what your cluster is currently at
 export VER=1.32.1-1.1
